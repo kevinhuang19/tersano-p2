@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the dataset
-file_path = './customer_churn_dataset-testing-master.csv'  # Update with your file path
+file_path = './customer_churn_dataset-testing-master.csv'
 churn_data = pd.read_csv(file_path)
 
 # Display the first few rows of the dataset
